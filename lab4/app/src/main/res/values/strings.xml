@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab4Menu</string>
+    <string name="to_activity">До активності</string>
+    <string name="back_activity">Назад</string>
+    <string name="orientation">Змінити орєнтацію</string>
+    <string name="hint_input">input text</string>
+    <string name="setText">встановити текст</string>
+    <string name="action_settings">settings</string>
+    <string name="action_1">1</string>
+    <string name="action_2">2</string>
+</resources>

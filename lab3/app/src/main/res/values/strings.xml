@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="button1">b1</string>
+    <string name="button2">b2</string>
+    <string name="button3">b3</string>
+    <string name="button4">b4</string>
+    <string name="button5">b5</string>
+    <string name="button6">b6</string>
+    <string name="button7">button7</string>
+    <string name="button8">button8</string>
+</resources>
